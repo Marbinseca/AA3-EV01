@@ -41,7 +41,7 @@ Una aplicación útil para:
 - Segmentación de patrones en bases de datos multivariadas.
 
 ---
-Para visualizar la aplicación, puedes visitar el siguiente enlace: [Demo de la aplicación](https://huggingface.co/spaces/marbins/kmeans-clustering-csv).
+Para visualizar la aplicación, puedes visitar el siguiente enlace: [Demo de la aplicación](https://huggingface.co/spaces/marbinseca/kmeans).
 
 ---
 Desarrollado por **Marbin Seca**
